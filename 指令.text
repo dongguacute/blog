@@ -1,0 +1,6 @@
+启动:
+hexo cl
+hexo g
+hexo bangumi -u
+hexo algolia
+hexo s

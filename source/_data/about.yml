@@ -1,0 +1,91 @@
+- class_name: 关于页
+  subtitle: 可可爱爱
+  avatarImg: https://pic.imgdb.cn/item/66d06032d9c307b7e91af93d.jpg
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发一条龙
+    right:
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+  name: 冬瓜
+  description: 是一名 软件工程师、学生、独立开发者、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国香港
+    background: https://pic.imgdb.cn/item/67068ad1d29ded1a8cbdc531.jpg
+    backgroundDark: https://pic.imgdb.cn/item/67068ad1d29ded1a8cbdc531.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2010
+    selfInfoTips2: 爱好
+    selfInfoContent2: 软件工程
+    selfInfoTips3: 年级
+    selfInfoContent3: 中三学生
+  personalities:
+    author_name: 调停者
+    personality_type: INFP-T
+    photo_url: https://pic.imgdb.cn/item/67068ad1d29ded1a8cbdc531.jpg
+    personality_img: https://pic.imgdb.cn/item/66eeebdbf21886ccc0a04999.png
+    name_url: https://www.16personalities.com/ch/infp-人格
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 开开，
+    maxim_bottom: 心心。
+  buff:
+    buff_tips: 特长
+    buff_top: 脑回路新奇的 小冬瓜
+    buff_bottom: 二次元指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 原神
+    game_uid: "UID: "
+    game_bg: https://bu.dusays.com/2023/04/22/64433bf26e25d.webp
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 周杰倫、欧美、华语流行
+    music_bg: https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/E544/production/_108029685_singerjaychouontheredcarpeteventattheworldcelebritypro-am2016missionhillschinagolftournament.jpg.webp
+    music_link: /music
+  reward_list:
+    
