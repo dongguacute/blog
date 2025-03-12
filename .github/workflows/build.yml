@@ -8,6 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Add permissions at job level
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -31,20 +34,9 @@ jobs:
         run: npm install
       - name: Build
         run: npm run build
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: ./public
-  deploy:
-    needs: build
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          # Use personal access token instead of GITHUB_TOKEN
+          github_token: ${{ secrets.DEPLOY_KEY }}
+          publish_dir: ./public
