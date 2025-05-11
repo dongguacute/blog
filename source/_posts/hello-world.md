@@ -1,6 +1,6 @@
 ---
 title: Hello World
-time: 2025.1.1
+date: 2025.1.1
 top_img: https://pic.imgdb.cn/item/66d06219d9c307b7e91ca1bb.jpg
 cover: https://pic.imgdb.cn/item/66d06219d9c307b7e91ca1bb.jpg
 ---

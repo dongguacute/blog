@@ -1,7 +1,7 @@
 ---
 title: 論死亡幻想
 tag: [冬瓜的精神病院,心理]
-time: 2025.5.11
+date: 2025.5.11
 categories: 冬瓜的精神病院
 ai: 本篇文章為冬瓜的精神病院專欄，如有不適請立即退出閱讀
 top_img: '../img/mh-df/hero.png'
