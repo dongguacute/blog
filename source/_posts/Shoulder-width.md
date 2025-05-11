@@ -3,6 +3,7 @@ title: 肩宽问题
 tag: [身材焦虑,自卑]
 categories: 心理
 ai: 本文章介绍了如何解决肩宽焦虑的问题，让每个人都能自信，能开开心心
+time: 2025.1.1
 top_img: https://pic.imgdb.cn/item/66efbad3f21886ccc04d6338.png
 cover: https://pic.imgdb.cn/item/66efbad3f21886ccc04d6338.png
 ---

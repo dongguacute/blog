@@ -3,6 +3,7 @@ title: 夢想與現實
 tag: [冬瓜的精神病院,心理]
 categories: 冬瓜的精神病院
 ai: 本篇文章為冬瓜的精神病院專欄，故事純屬虛構，如有不適請立即退出閱讀
+time: 2025.1.1
 top_img: https://pic1.imgdb.cn/item/680a371c58cb8da5c8c90e1a.jpg
 cover: https://pic1.imgdb.cn/item/680a371c58cb8da5c8c90e1a.jpg
 ---

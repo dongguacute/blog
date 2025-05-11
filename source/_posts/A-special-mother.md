@@ -3,6 +3,7 @@ title: 一位特别的母亲
 top_img: /img/A-special-mother/hero.jpg
 cover: /img/A-special-mother/hero.jpg
 categories: 故事
+time: 2025.1.1
 ai: 本文章讲述了一位母亲支持她的跨性别女儿的故事
 ---
 ## 一切的开端
